@@ -1,0 +1,1 @@
+Analyzed clinical data of 333 breast cancer patients (2017–2019) using Microsoft Excel. Built interactive dashboards to identify trends in age, gender, tumor stage, histology, surgery type, and survival outcomes, enabling data-driven healthcare insights.
